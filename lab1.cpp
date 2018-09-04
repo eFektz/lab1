@@ -1,6 +1,6 @@
 //
-//modified by:
-//date:
+//modified by: Mason Denning
+//date: 08/29/18
 //
 //3350 Spring 2018 Lab-1
 //This program demonstrates the use of OpenGL and XWindows
